@@ -1,0 +1,8 @@
+src/fc.pcc:190:enum SysCmd {
+src/fc.pcc2:212:enum SysCmd {
+src/main.cpp:147:enum CfgType { CFG_INT, CFG_STR };
+src/main.cpp:265:enum sysCmd {
+src/main.pcc2:147:enum CfgType { CFG_INT, CFG_STR };
+src/main.pcc2:265:enum sysCmd {
+src/src.ccpppp:152:enum sysCmd { CMD_NONE, CMD_OTA, CMD_RESET, CMD_FACTORY };
+src/src.ccpppp:153:enum CfgType { CFG_INT, CFG_STR };

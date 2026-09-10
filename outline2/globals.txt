@@ -1,0 +1,4 @@
+253 src/main.cpp:WiFiClient   espClient
+274 src/main.cpp:String   fcPayload  // MQTT FC Payload
+288 src/main.cpp:QueueHandle_t serLogQueue
+289 src/main.cpp:QueueHandle_t mqttLogQueue

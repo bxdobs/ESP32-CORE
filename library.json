@@ -1,0 +1,9 @@
+{
+    "name": "Esp32CoreClassLib",
+    "version": "2v6",
+    "build": {
+        "srcDir": "src",
+        "includeDir": "espcore_include"
+    }
+}
+

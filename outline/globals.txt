@@ -1,0 +1,29 @@
+src/fc.pcc:182:WiFiClient espClient;
+src/fc.pcc:202:String fcPayload;
+src/fc.pcc:214:QueueHandle_t serialQueue;
+src/fc.pcc2:204:WiFiClient espClient;
+src/fc.pcc2:223:String fcPayload;
+src/fc.pcc2:235:QueueHandle_t serialQueue;
+src/main.cpp:253:WiFiClient   espClient;
+src/main.cpp:274:String   fcPayload;  // MQTT FC Payload
+src/main.cpp:288:QueueHandle_t serLogQueue;
+src/main.cpp:289:QueueHandle_t mqttLogQueue;
+src/main.pcc2:253:WiFiClient   espClient;
+src/main.pcc2:274:String   fcPayload;  // MQTT FC Payload
+src/main.pcc2:288:QueueHandle_t serLogQueue;
+src/main.pcc2:289:QueueHandle_t mqttLogQueue;
+src/main.ppc:113:QueueHandle_t serialQueue;
+src/src.ccpppp:257:IPAddress Local;
+src/src.ccpppp:258:IPAddress Ota;
+src/src.ccpppp:259:IPAddress Gateway;
+src/src.ccpppp:260:IPAddress Subnet;
+src/src.ccpppp:261:IPAddress DNS;
+src/src.ccpppp:271:WiFiClient   espClient;
+src/src.ccpppp:280:String   fcPayload;  // MQTT FC Payload
+src/src.ccpppp:291:QueueHandle_t serLogQueue;
+src/src.ccpppp:292:QueueHandle_t mqttLogQueue;
+src/wpg.ppc:465:Preferences preferences;
+src/wpg.ppc:466:bool otaMode;
+src/wpg.ppc:818:return html;
+src/wpg.ppc:1127:Preferences prefs;
+src/wpg.ppc:2420:return html;

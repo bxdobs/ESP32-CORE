@@ -1,0 +1,2 @@
+147 src/main.cpp:enum CfgType { CFG_INT, CFG_STR };
+265 src/main.cpp:enum sysCmd {
